@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\source\\repos\\PersonalProjects\\Udemy Intermediate Course\\Udemy Intermediate Course.csproj",
-      "projectName": "Udemy Intermediate Course",
-      "projectPath": "C:\\Users\\danie\\source\\repos\\PersonalProjects\\Udemy Intermediate Course\\Udemy Intermediate Course.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\source\\repos\\PersonalProjects\\Stopwatch\\Stopwatch.csproj",
+      "projectName": "Stopwatch",
+      "projectPath": "C:\\Users\\danie\\source\\repos\\PersonalProjects\\Stopwatch\\Stopwatch.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\source\\repos\\PersonalProjects\\Udemy Intermediate Course\\obj\\",
+      "outputPath": "C:\\Users\\danie\\source\\repos\\PersonalProjects\\Stopwatch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

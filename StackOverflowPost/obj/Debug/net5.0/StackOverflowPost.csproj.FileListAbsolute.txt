@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\bin\Debug\net5.0\StackOverflowPost.exe
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\bin\Debug\net5.0\StackOverflowPost.deps.json
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\bin\Debug\net5.0\StackOverflowPost.runtimeconfig.json
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\bin\Debug\net5.0\StackOverflowPost.runtimeconfig.dev.json
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\bin\Debug\net5.0\StackOverflowPost.dll
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\bin\Debug\net5.0\ref\StackOverflowPost.dll
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\bin\Debug\net5.0\StackOverflowPost.pdb
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\obj\Debug\net5.0\StackOverflowPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\obj\Debug\net5.0\StackOverflowPost.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\obj\Debug\net5.0\StackOverflowPost.AssemblyInfo.cs
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\obj\Debug\net5.0\StackOverflowPost.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\obj\Debug\net5.0\StackOverflowPost.dll
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\obj\Debug\net5.0\ref\StackOverflowPost.dll
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\obj\Debug\net5.0\StackOverflowPost.pdb
+C:\Users\danie\source\repos\PersonalProjects\StackOverflowPost\obj\Debug\net5.0\StackOverflowPost.genruntimeconfig.cache
